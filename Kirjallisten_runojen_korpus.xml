@@ -7207,7 +7207,7 @@
       <K> matcustaisa Pohjan-maalla . </K>
   </TXT>
 </ITEM>
-<ITEM nro="kr00140002" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
+<ITEM nro="kr140002" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
 <META>
 <TEOS>Wähäinen Cocous Suomalaisista Runoista. </TEOS>
 <LOC>Kalajoki, Turku</LOC>
@@ -7228,13 +7228,43 @@
 <MDD>14.2.2007</MDD>
 </metaB>
 <TXT><poem>
-        <v>COsca culki Cuningamme ADOLPH FRIEDRICH Armollinen , Meidän Maalla matcusteli Turun cautta Tuckulmihin , Caicki wereni wenähti . </v>
-        <v>Caicki lijcahti lihani , Että wirteni wiritin Cannoin minun Candeleni Isän istuimen etehen Caickiwallan Camarihin , Josta anoin andimia </v>
-        <v>Juuri toiwotin todella , Että racas Rauhan HERRA HERra Herrain ylitze , Andais olla armon owen Aina Hänelle awoinna , Andais onnen olcapäille Rindaraudan rinnoillensa Ylimmäisen ymmärryxen Wijden kielen wijsauden , Saada rauhas rackahasa Eleskellä , oleskella Waldacunnan Wartiana , Caiken Cansan Catzojana , Estäis caicki eriseurat Poijes Hänen Portildansa , Wiholliset wieckahimmat Cauwas Hänest carcottaisi </v>
-        <v> Pidäis pitkäsä ijäsä , Hänen warsin wahwistaisi Waldacunnan Wanhimmaxi , Cuningaxi Cuuluisaxi Pienden Printzein kerralla Puolisonsa Polwenansa ! </v>
+        <v>COsca culki Cuningamme </v>
+<v>ADOLPH FRIEDRICH Armollinen , </v>
+<v>Meidän Maalla matcusteli </v>
+<v>Turun cautta Tuckulmihin , </v>
+<v>Caicki wereni wenähti . </v>
+        <v>Caicki lijcahti lihani , </v>
+<v>Että wirteni wiritin </v>
+<v>Cannoin minun Candeleni </v>
+<v>Isän istuimen etehen </v>
+<v>Caickiwallan Camarihin , </v>
+<v>Josta anoin andimia </v>
+        <v>Juuri toiwotin todella , </v>
+<v>Että racas Rauhan HERRA </v>
+<v>HERra Herrain ylitze , </v>
+<v>Andais olla armon owen </v>
+<v>Aina Hänelle awoinna , </v>
+<v>Andais onnen olcapäille </v>
+<v>Rindaraudan rinnoillensa </v>
+<v>Ylimmäisen ymmärryxen </v>
+<v>Wijden kielen wijsauden , </v>
+<v>Saada rauhas rackahasa </v>
+<v>Eleskellä , oleskella </v>
+<v>Waldacunnan Wartiana , </v>
+<v>Caiken Cansan Catzojana , </v>
+<v>Estäis caicki eriseurat </v>
+<v>Poijes Hänen Portildansa , </v>
+<v>Wiholliset wieckahimmat </v>
+<v>Cauwas Hänest carcottaisi </v>
+        <v> Pidäis pitkäsä ijäsä , </v>
+<v>Hänen warsin wahwistaisi </v>
+<v>Waldacunnan Wanhimmaxi , </v>
+<v>Cuningaxi Cuuluisaxi </v>
+<v>Pienden Printzein kerralla </v>
+<v>Puolisonsa Polwenansa ! </v>
 </poem></TXT>
 </ITEM>
-<ITEM nro="kr00140003" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
+<ITEM nro="kr140003" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
 <META>
 <TEOS>Wähäinen Cocous Suomalaisista Runoista. </TEOS>
 <LOC>Kalajoki, Turku</LOC>
@@ -7257,31 +7287,99 @@
 <TXT>
 <poem>
         <v>Hää-Runot . 1:nen . </v>
-        <v>NIjncuin arpa astunepi Callon päähän caljahtapi , Sinne mielen menemähän Sinne kynnen käändymähän Pitäpi picaisestakin , Kijruhusti , kijndiästi , Näisä Mailman menoisa Asioisa ainoisisa </v>
-        <v>Sijtä sentähden sanowat , Kirioisansa kirjoittawat Otzan työsä oppinehet , Miehet , mieldä maistanehet : Quot capita , tot sensus , Aiwos on cungin ajatus . </v>
-        <v>Cukin eatzopi cowasti , Wartioipi wacawasti , Oman onnensa nojasa Parastansa paljahalda . </v>
-        <v>Näin on caikisa catalan Aina ihmisen asiat , Näimbä naima keinoisakin Menoisa mainittawisa : </v>
-        <v>Mikä äitihin äkisti Rupiapi rohkiasti </v>
+        <v>NIjncuin arpa astunepi </v>
+<v>Callon päähän caljahtapi , </v>
+<v>Sinne mielen menemähän </v>
+<v>Sinne kynnen käändymähän </v>
+<v>Pitäpi picaisestakin , </v>
+<v>Kijruhusti , kijndiästi , </v>
+<v>Näisä Mailman menoisa </v>
+<v>Asioisa ainoisisa </v>
+        <v>Sijtä sentähden sanowat , </v>
+<v>Kirioisansa kirjoittawat </v>
+<v>Otzan työsä oppinehet , </v>
+<v>Miehet , mieldä maistanehet : </v>
+<v>Quot capita , tot sensus , </v>
+<v>Aiwos on cungin ajatus . </v>
+        <v>Cukin eatzopi cowasti , </v>
+<v>Wartioipi wacawasti , </v>
+<v>Oman onnensa nojasa </v>
+<v>Parastansa paljahalda . </v>
+        <v>Näin on caikisa catalan </v>
+<v>Aina ihmisen asiat , </v>
+<v>Näimbä naima keinoisakin </v>
+<v>Menoisa mainittawisa : </v>
+        <v>Mikä äitihin äkisti </v>
+<v>Rupiapi rohkiasti </v>
         <v> Mikä Tyttäreen tytypi </v>
-        <v> Mikä Pijcangin pitäpi Hywänä hyppyisisänsä , Parembana paarmoisansa Papin parasta tytärtä Suurta suuresta sugusta </v>
-        <v>Mikä Culda culcuisia Consti corwa-rengahita , Ajattele aiwosansa Ottamahan omaxensa : </v>
-        <v>Mikä ämmän ällittömän , Warsin händänsä wanhemman , Ottanepi omaxensa , Riemun cansa ristixensä : </v>
-        <v>Mikä onnetoin osapi , Saada curjan cumpanixi , Juoppo lallin juurtunehen , Willipeuran wijripäisen </v>
-        <v>Mikä mielin mielisuosin Ripustapi rickahasen Huikiasti huutawaisen , Rascan raha Cuckaronsa </v>
-        <v> Mikä köyhän köytystetyn Waimoxensa walitzepi . </v>
-        <v>Minä jätän järjestänsä Ainosehen arwohonsa , Naisen puolen naimattoman Mieheld , waimox , walittawan , Joc' on caunis cannen alda Siljä , suloinen sisäldä , Nijncuin näkypi näöldä Pääldä puolen päälliseldä , Joc' on ahkera awuista Cuulu caunis cunniasta . </v>
-        <v>Sijspä catzo cannen alle Curkistele cuoren alle , Ennen cuins Emänän otat , Waimon itzelles walitzet . </v>
-        <v>Pickuinen Pippurin marja , Kyllä caunis ja carija Wasta watzahan macunsa , Andelepi aiwottunsa , Cuin on purtu puolitiehen Hambahalla haawottuna </v>
-        <v>Nijn ett taida taitawata Sulles waimoa walita , Jos ett tietäne tapoja Maalla maistane macua .
- Waan cuin arpa astunepi Callon päähän caljahtapi , Sinne mielen menemähän Sinne kynnen käändymähän Pitäpi picaisestakin Kijruhusti , kijndiästi , Sitten käyköhön käsikin Cuinga tahtopi tawasta </v>
-        <v>Sillä marjat makeimmat Satimehen linnun saawat </v>
-        <v>Caunis Cacku pääldä nähden , Acanainen alda cuoren . </v>
-        <v>Meidän Ylkämies Yliä Onnellinen olet Sinä </v>
-        <v> Olet oikein osannut Waimon Sinulles walita . </v>
-        <v>Onni olcohon Sinulle Edespäingin ennacolla ! </v>
+        <v> Mikä Pijcangin pitäpi </v>
+<v>Hywänä hyppyisisänsä , </v>
+<v>Parembana paarmoisansa </v>
+<v>Papin parasta tytärtä </v>
+<v>Suurta suuresta sugusta </v>
+        <v>Mikä Culda culcuisia </v>
+<v>Consti corwa-rengahita , </v>
+<v>Ajattele aiwosansa </v>
+<v>Ottamahan omaxensa : </v>
+        <v>Mikä ämmän ällittömän , </v>
+<v>Warsin händänsä wanhemman , </v>
+<v>Ottanepi omaxensa , </v>
+<v>Riemun cansa ristixensä : </v>
+        <v>Mikä onnetoin osapi , </v>
+<v>Saada curjan cumpanixi , </v>
+<v>Juoppo lallin juurtunehen , </v>
+<v>Willipeuran wijripäisen </v>
+        <v>Mikä mielin mielisuosin </v>
+<v>Ripustapi rickahasen </v>
+<v>Huikiasti huutawaisen , </v>
+<v>Rascan raha Cuckaronsa </v>
+        <v> Mikä köyhän köytystetyn </v>
+<v>Waimoxensa walitzepi . </v>
+        <v>Minä jätän järjestänsä </v>
+<v>Ainosehen arwohonsa , </v>
+<v>Naisen puolen naimattoman </v>
+<v>Mieheld , waimox , walittawan , </v>
+<v>Joc' on caunis cannen alda </v>
+<v>Siljä , suloinen sisäldä , </v>
+<v>Nijncuin näkypi näöldä </v>
+<v>Pääldä puolen päälliseldä , </v>
+<v>Joc' on ahkera awuista </v>
+<v>Cuulu caunis cunniasta . </v>
+        <v>Sijspä catzo cannen alle </v>
+<v>Curkistele cuoren alle , </v>
+<v>Ennen cuins Emänän otat , </v>
+<v>Waimon itzelles walitzet . </v>
+        <v>Pickuinen Pippurin marja , </v>
+<v>Kyllä caunis ja carija </v>
+<v>Wasta watzahan macunsa , </v>
+<v>Andelepi aiwottunsa , </v>
+<v>Cuin on purtu puolitiehen </v>
+<v>Hambahalla haawottuna </v>
+        <v>Nijn ett taida taitawata </v>
+<v>Sulles waimoa walita , </v>
+<v>Jos ett tietäne tapoja </v>
+<v>Maalla maistane macua . </v>
+<v>Waan cuin arpa astunepi </v>
+<v>Callon päähän caljahtapi , </v>
+<v>Sinne mielen menemähän </v>
+<v>Sinne kynnen käändymähän </v>
+<v>Pitäpi picaisestakin </v>
+<v>Kijruhusti , kijndiästi , </v>
+<v>Sitten käyköhön käsikin </v>
+<v>Cuinga tahtopi tawasta </v>
+        <v>Sillä marjat makeimmat </v>
+<v>Satimehen linnun saawat </v>
+        <v>Caunis Cacku pääldä nähden , </v>
+<v>Acanainen alda cuoren . </v>
+        <v>Meidän Ylkämies Yliä </v>
+<v>Onnellinen olet Sinä </v>
+        <v> Olet oikein osannut </v>
+<v>Waimon Sinulles walita . </v>
+        <v>Onni olcohon Sinulle </v>
+<v>Edespäingin ennacolla ! </v>
 </poem></TXT>
 </ITEM>
-<ITEM nro="kr00140004" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
+<ITEM nro="kr140004" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
 <META>
 <TEOS>Wähäinen Cocous Suomalaisista Runoista. </TEOS>
 <LOC>Kalajoki, Turku</LOC>
@@ -7304,18 +7402,67 @@
 <TXT>
 <poem>
         <v>2:nen . </v>
-        <v>KEwät keickuin tulepi Ilon cansa ilmestypi </v>
-        <v>Silloin monda Metzämiestä Somaisinda Soidinmiestä , Suxen päällä soutelepi , Ennacolla ennättäpi Metzän eläinden edulle , Soittawaisten Soittimille , </v>
-        <v>Silloin caicki Calamiehet Paatin päälle pyytelewät , Wercot wetehen wetäwät Heinickohon heittelewät : </v>
-        <v>Silloin cucat cucoistawat , Wesat puista putcahtawat : Coco Mailma matala Wihottapi wiljan alla , </v>
-        <v>Mitä cuollunna cowalla Taipununna talwen alla Wijmeisetkin wircuawat Yxin madot matawaiset : </v>
-        <v>Silloin linnut liwertäwät Äänellänsä äändelewät Aiwan isolla ilolla Laulu wirsill' laitumilla Pesät pehcuhun tekewät , Yximielin yhdistywät Cukin cansa Cumpaninsa , Luojan laitoxen perähän Sikiöitä sijttelewät Polwillansa ponnistawat . </v>
-        <v>Kewät keickuin tulepi Ilon cansa ilmestypi Meidän Ylkä-Miehelemme Tällä päiwällä Pyhällä , Jon' on löynnyt Löytykäisen Metzäwuohen mieluhisen , Somaisimman Soiden Linnun Meren Cuutin Cullaisimman , Joll' on Silcki Silmälaudat Corwat aiwan constilliset , Joll' on huulet hunajasta , Leuca lemmestä lewiä , Joll' on wihco wehriäinen Cainaloisa cannettawa , Joc' on sormista Sorewa , Warsin nopsa warpahista . </v>
-        <v>Nyt sijs pidä piwosasi Tämä saatu Saalihisi , Pesä pehcuhun rakenna , Caunis linna Linnullesi , Laita wuodet wuohellesi Cuutillesi Cullaiselle </v>
-        <v>Johon julkinen Jumala , Meidän ilmoinen Isämme , Siunauxen sijrtäköhön , Aina Teidän andacohon Onnen ohjisa käwellä , Onnen riemu rengahisa , Asti aicahan , ikähän Armostansa aiwottuhun ! </v>
+        <v>KEwät keickuin tulepi </v>
+<v>Ilon cansa ilmestypi </v>
+        <v>Silloin monda Metzämiestä </v>
+<v>Somaisinda Soidinmiestä , </v>
+<v>Suxen päällä soutelepi , </v>
+<v>Ennacolla ennättäpi </v>
+<v>Metzän eläinden edulle , </v>
+<v>Soittawaisten Soittimille , </v>
+        <v>Silloin caicki Calamiehet </v>
+<v>Paatin päälle pyytelewät , </v>
+<v>Wercot wetehen wetäwät </v>
+<v>Heinickohon heittelewät : </v>
+        <v>Silloin cucat cucoistawat , </v>
+<v>Wesat puista putcahtawat : </v>
+<v>Coco Mailma matala </v>
+<v>Wihottapi wiljan alla , </v>
+        <v>Mitä cuollunna cowalla </v>
+<v>Taipununna talwen alla </v>
+<v>Wijmeisetkin wircuawat </v>
+<v>Yxin madot matawaiset : </v>
+        <v>Silloin linnut liwertäwät </v>
+<v>Äänellänsä äändelewät </v>
+<v>Aiwan isolla ilolla </v>
+<v>Laulu wirsill' laitumilla </v>
+<v>Pesät pehcuhun tekewät , </v>
+<v>Yximielin yhdistywät </v>
+<v>Cukin cansa Cumpaninsa , </v>
+<v>Luojan laitoxen perähän </v>
+<v>Sikiöitä sijttelewät </v>
+<v>Polwillansa ponnistawat . </v>
+        <v>Kewät keickuin tulepi </v>
+<v>Ilon cansa ilmestypi </v>
+<v>Meidän Ylkä-Miehelemme </v>
+<v>Tällä päiwällä Pyhällä , </v>
+<v>Jon' on löynnyt Löytykäisen </v>
+<v>Metzäwuohen mieluhisen , </v>
+<v>Somaisimman Soiden Linnun </v>
+<v>Meren Cuutin Cullaisimman , </v>
+<v>Joll' on Silcki Silmälaudat </v>
+<v>Corwat aiwan constilliset , </v>
+<v>Joll' on huulet hunajasta , Leuca lemmestä lewiä , </v>
+<v>Joll' on wihco wehriäinen </v>
+<v>Cainaloisa cannettawa , </v>
+<v>Joc' on sormista Sorewa , </v>
+<v>Warsin nopsa warpahista . </v>
+        <v>Nyt sijs pidä piwosasi </v>
+<v>Tämä saatu Saalihisi , </v>
+<v>Pesä pehcuhun rakenna , </v>
+<v>Caunis linna Linnullesi , Laita wuodet wuohellesi </v>
+<v>Cuutillesi Cullaiselle </v>
+        <v>Johon julkinen Jumala , </v>
+<v>Meidän ilmoinen Isämme , </v>
+<v>Siunauxen sijrtäköhön , </v>
+<v>Aina Teidän andacohon </v>
+<v>Onnen ohjisa käwellä , </v>
+<v>Onnen riemu rengahisa , </v>
+<v>Asti aicahan , ikähän </v>
+<v>Armostansa aiwottuhun ! </v>
 </poem></TXT>
 </ITEM>
-<ITEM nro="kr00140005" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
+<ITEM nro="kr140005" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
 <META>
 <TEOS>Wähäinen Cocous Suomalaisista Runoista. </TEOS>
 <LOC>Kalajoki, Turku</LOC>
@@ -7338,21 +7485,82 @@
 <TXT>
 <poem>
         <v>3:mas . </v>
-        <v>MInä Sauwon Suomalainen , Cainuhusa Carjalainen Tulin tiettyhyn Talohon Caunihisen Cartanohon , Cuulin siellä cumman äänen Tomun totisen tohinan </v>
-        <v>Waimo parat paxullaiset Nijncuin Perhoiset pirisit , Pijcat pienet pickaraiset Pitkin seiniä sirisit . </v>
-        <v>Cohta kysyin cohdapäätä Tuommoisen tohinan syytä ? </v>
-        <v>Johon wastais waimon puoli Marthan töjtä toimittawa : Nyt on Astrill astununna Tullut Talohon tomulla , Joll' on wasamat wacaiset Ambuneuwot angarimmat , Joll' on Pijkit nijncuin pijlit , Teräwäxi tehdyt nuolet , Nijllä tullut tappeluhun Kilwan Nymphein kisahan Sysännyt sydämmen cautta Talon tiettyä Tytärtä Carannunna candapäille Ajwan astunut likelle , Ett' on hjeno hiweldynyt Niweldynyt nilcka luusta Jalca Neitoisen jaloimman Meidän Maalla mainittawan </v>
-        <v>Sijt' on meteli majasa Sijtä caicu cartanosa </v>
-        <v> Sill' on meillä mieli panna Ansat Astrillin etehen , Ettei cauwas cartanosta Juoxe aiwan joutawasta , Mutta pahan parandapi Syrjän sydämmen sitopi , Löytä lästä lääkityxen , Hienomman hiwellys langan Sydämmelle särjetylle Nilcoille niwelletyille . </v>
-        <v>Tuosa wijwähdin wähäisen Catzoin Naisten naalan päälle , </v>
-        <v>Catzo ! Astrill ainocainen Oli saatu satimehen , Cusa luki läkityxet , Kijwahasti kirjoituxet , Cuinga pitäisi parata Sairahaxi saatettua . </v>
-        <v>Sairas cuin sanoman saapi , Catzomahan capsahtapi , Jonga Astril ainocainen Cohta siwupi sylihin , Caicki haawat hautelepi , Kipu paicat parandapi , Syrjän sydämmen sitopi , Jatcon jalcahan panepi . </v>
-        <v>Tuopa sydändä sucaisi Mungin mieldäni mutaisi Cohta Runoihin rupeisin Laattialla laulamahan : </v>
-        <v>Kijtos Astril ainocainen Aiwan hywin ambumasta Paremmin parandamasta , Kijtos kijwahin sodasa , Taitawainen tappelusa ! </v>
-        <v>Sijtä cannan callollesi Sijtä painan pääsi päälle Cruunun cullasta cudotun Palmupuista palmicoitun , Toiwotan todella Sulle Onnen caiken olcapäille ! </v>
+        <v>MInä Sauwon Suomalainen , </v>
+<v>Cainuhusa Carjalainen </v>
+<v>Tulin tiettyhyn Talohon </v>
+<v>Caunihisen Cartanohon , </v>
+<v>Cuulin siellä cumman äänen </v>
+<v>Tomun totisen tohinan </v>
+        <v>Waimo parat paxullaiset </v>
+<v>Nijncuin Perhoiset pirisit , </v>
+<v>Pijcat pienet pickaraiset </v>
+<v>Pitkin seiniä sirisit . </v>
+        <v>Cohta kysyin cohdapäätä </v>
+<v>Tuommoisen tohinan syytä ? </v>
+        <v>Johon wastais waimon puoli </v>
+<v>Marthan töjtä toimittawa : </v>
+<v>Nyt on Astrill astununna </v>
+<v>Tullut Talohon tomulla , </v>
+<v>Joll' on wasamat wacaiset </v>
+<v>Ambuneuwot angarimmat , </v>
+<v>Joll' on Pijkit nijncuin pijlit , </v>
+<v>Teräwäxi tehdyt nuolet , </v>
+<v>Nijllä tullut tappeluhun </v>
+<v>Kilwan Nymphein kisahan </v>
+<v>Sysännyt sydämmen cautta </v>
+<v>Talon tiettyä Tytärtä </v>
+<v>Carannunna candapäille </v>
+<v>Ajwan astunut likelle , </v>
+<v>Ett' on hjeno hiweldynyt </v>
+<v>Niweldynyt nilcka luusta </v>
+<v>Jalca Neitoisen jaloimman </v>
+<v>Meidän Maalla mainittawan </v>
+        <v>Sijt' on meteli majasa </v>
+<v>Sijtä caicu cartanosa </v>
+        <v> Sill' on meillä mieli panna </v>
+<v>Ansat Astrillin etehen , </v>
+<v>Ettei cauwas cartanosta </v>
+<v>Juoxe aiwan joutawasta , </v>
+<v>Mutta pahan parandapi </v>
+<v>Syrjän sydämmen sitopi , </v>
+<v>Löytä lästä lääkityxen , </v>
+<v>Hienomman hiwellys langan </v>
+<v>Sydämmelle särjetylle </v>
+<v>Nilcoille niwelletyille . </v>
+        <v>Tuosa wijwähdin wähäisen </v>
+<v>Catzoin Naisten naalan päälle , </v>
+        <v>Catzo ! Astrill ainocainen </v>
+<v>Oli saatu satimehen , </v>
+<v>Cusa luki läkityxet , </v>
+<v>Kijwahasti kirjoituxet , </v>
+<v>Cuinga pitäisi parata </v>
+<v>Sairahaxi saatettua . </v>
+        <v>Sairas cuin sanoman saapi , </v>
+<v>Catzomahan capsahtapi , </v>
+<v>Jonga Astril ainocainen </v>
+<v>Cohta siwupi sylihin , </v>
+<v>Caicki haawat hautelepi , </v>
+<v>Kipu paicat parandapi , </v>
+<v>Syrjän sydämmen sitopi , </v>
+<v>Jatcon jalcahan panepi . </v>
+        <v>Tuopa sydändä sucaisi </v>
+<v>Mungin mieldäni mutaisi </v>
+<v>Cohta Runoihin rupeisin </v>
+<v>Laattialla laulamahan : </v>
+        <v>Kijtos Astril ainocainen </v>
+<v>Aiwan hywin ambumasta </v>
+<v>Paremmin parandamasta , </v>
+<v>Kijtos kijwahin sodasa , </v>
+<v>Taitawainen tappelusa ! </v>
+        <v>Sijtä cannan callollesi </v>
+<v>Sijtä painan pääsi päälle </v>
+<v>Cruunun cullasta cudotun </v>
+<v>Palmupuista palmicoitun , </v>
+<v>Toiwotan todella Sulle </v>
+<v>Onnen caiken olcapäille ! </v>
 </poem></TXT>
 </ITEM>
-<ITEM nro="kr00140006" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
+<ITEM nro="kr140006" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
 <META>
 <TEOS>Wähäinen Cocous Suomalaisista Runoista. </TEOS>
 <LOC>Kalajoki, Turku</LOC>
@@ -7375,20 +7583,67 @@
 <TXT>
 <poem>
         <v>4:jäs . </v>
-        <v>MItä cuulupi cujilla , Mainitahan meidän Maalla ? Että Poica Pohjalainen Wanha weljeni wacainen , Joc' on ollut oinahana Cauwan Leskenä lewännyt , Uscaldapi ulotella Nuorten Neitosten keralle . </v>
-        <v>Cuc' on luondonsa lowesta Nostanunna noihin töihin ? </v>
-        <v>Eikö ollunna olisi Hälle paljoa parembi Leski Muori muutamambi Munacuista mucawambi , Joll' on taito Taatan cansa Wanutella wanhan lailla , Ja eij Pijcoja pidellä Neitoisia nenäellä , Joiden cansa caiketickin Nuoremmilla notkioilla Ombi työtä turkitatkin Holhomista housuittakin ? </v>
-        <v>Lieckö Adami ajanut , Eli Luoja laittanunna Tämän Miehen tälle tielle Matcan päälle mainitulle ? </v>
-        <v>Luojan luulen laittanehen Miehen nenän Neittä cohden , Että saisi saatuansa Händä halata halulla , Jot' eij kärsi kärrylläiset Leski Muorit muutamaiset . </v>
-        <v>Näille Miesten naima teille Mennä pitäisi minungin </v>
-        <v> Waan en tiedä , cuhun käänn~yn , Cuhun mieleni menetän : </v>
-        <v>Pijcat mua peljättäwät Lesket wähän lepyttäwät </v>
-        <v>Sijs nyt , weljeni wacainen , Ennen tielle ennättänyt , Lyckä lyyli minullengin Ijli Pohjasta puhalla , Että rohkian ruweta Etzimähän Emändätä . </v>
-        <v>Waipan annan waiwastasi Willa wanntuhut walitut , Cuca tiesi , cuinga käwis , Cuinga onnesi osaisi , Ettäs saisit Saapahatkin Saphianista samalla , Sucat silkistä sulasta , Lijna paidan lissingistä . </v>
-        <v>Sillä wälillä Sinulle Toiwotan juuri todella , Että nuori Neitoisesi Pickarainen Pijcaisesi Sulle onnexi olisi Mielen mesixi tulisi ! </v>
+        <v>MItä cuulupi cujilla , </v>
+<v>Mainitahan meidän Maalla ? </v>
+<v>Että Poica Pohjalainen </v>
+<v>Wanha weljeni wacainen , </v>
+<v>Joc' on ollut oinahana </v>
+<v>Cauwan Leskenä lewännyt , </v>
+<v>Uscaldapi ulotella </v>
+<v>Nuorten Neitosten keralle . </v>
+        <v>Cuc' on luondonsa lowesta </v>
+<v>Nostanunna noihin töihin ? </v>
+        <v>Eikö ollunna olisi </v>
+<v>Hälle paljoa parembi </v>
+<v>Leski Muori muutamambi </v>
+<v>Munacuista mucawambi , </v>
+<v>Joll' on taito Taatan cansa </v>
+<v>Wanutella wanhan lailla , </v>
+<v>Ja eij Pijcoja pidellä </v>
+<v>Neitoisia nenäellä , </v>
+<v>Joiden cansa caiketickin </v>
+<v>Nuoremmilla notkioilla </v>
+<v>Ombi työtä turkitatkin </v>
+<v>Holhomista housuittakin ? </v>
+        <v>Lieckö Adami ajanut , </v>
+<v>Eli Luoja laittanunna </v>
+<v>Tämän Miehen tälle tielle </v>
+<v>Matcan päälle mainitulle ? </v>
+        <v>Luojan luulen laittanehen </v>
+<v>Miehen nenän Neittä cohden , </v>
+<v>Että saisi saatuansa </v>
+<v>Händä halata halulla , </v>
+<v>Jot' eij kärsi kärrylläiset </v>
+<v>Leski Muorit muutamaiset . </v>
+        <v>Näille Miesten naima teille </v>
+<v>Mennä pitäisi minungin </v>
+        <v> Waan en tiedä , cuhun käänn~yn , </v>
+<v>Cuhun mieleni menetän : </v>
+        <v>Pijcat mua peljättäwät </v>
+<v>Lesket wähän lepyttäwät </v>
+        <v>Sijs nyt , weljeni wacainen , </v>
+<v>Ennen tielle ennättänyt , </v>
+<v>Lyckä lyyli minullengin </v>
+<v>Ijli Pohjasta puhalla , </v>
+<v>Että rohkian ruweta </v>
+<v>Etzimähän Emändätä . </v>
+        <v>Waipan annan waiwastasi </v>
+<v>Willa wanntuhut walitut , </v>
+<v>Cuca tiesi , cuinga käwis , </v>
+<v>Cuinga onnesi osaisi , </v>
+<v>Ettäs saisit Saapahatkin </v>
+<v>Saphianista samalla , </v>
+<v>Sucat silkistä sulasta , </v>
+<v>Lijna paidan lissingistä . </v>
+        <v>Sillä wälillä Sinulle </v>
+<v>Toiwotan juuri todella , </v>
+<v>Että nuori Neitoisesi </v>
+<v>Pickarainen Pijcaisesi </v>
+<v>Sulle onnexi olisi </v>
+<v>Mielen mesixi tulisi ! </v>
 </poem></TXT>
 </ITEM>
-<ITEM nro="kr00140007" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
+<ITEM nro="kr140007" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
 <META>
 <TEOS>Wähäinen Cocous Suomalaisista Runoista. </TEOS>
 <LOC>Kalajoki, Turku</LOC>
@@ -7411,20 +7666,81 @@
 <TXT>
 <poem>
         <v>Hautamus-Runot . 1:nen . </v>
-        <v>TEndimus huc omnes , metam properamus ad unam , Omnia sub leges mors vocat atta suas . </v>
-        <v>Cow' on laki cuolemalla Angara armottomalla , Caicki maahan caatelepi Martahaxi maaduttapi , </v>
-        <v>Mennä pitäpi minungin , Sinne täytypi Sinungin , Sinne welca wijmeisengin Cuolewaisten Cumpanitten . </v>
-        <v>Mikä waipu wanhembana Mikä nucku nuorembana , Sillä ihmisten elando Ombi orjuden olendo , Nijncuin coski cuohuwainen Joutusasti juoxewainen , Nijncuin uni umbinainen Waiwan alla waiwaloisen , Nijncuin cuckainen kedolla Wicattella wijllettäwä </v>
-        <v>Nijncuin juttu joutawitten Pian puuttuwa peräti , Luojan laitoxen perähän Totisesta duomiosta </v>
-        <v> Joca saarnaisi Sanalla Alla ilman Adamille , Paradisin Pappilasa Yrtitarhas ylpiäsä : Ettäs cuulit culdaistasi , Ewaasi Emändätäsi , Otit omenan häneldä Jonga kielsin Caickiwalda , Surma sinun säikyttäpi , Cuolemalla cuolettapi . </v>
-        <v>Waan on meille mieluihinen Sydämmellemme suloinen , Ettei heitä HERra meitä , Cuolemahan cummingahan , Mutta wihdoin wirwottapi Undunehet uudistapi , </v>
-        <v>Cosca tule duomiolle , Näiden Luotuin lopulla , Meidän sijrtäpi siamme , Tuonne Taiwahan Talohon , Cus' ei cuulu cuolemata Eikä waiwoist waliteta , Jos olem ollet Hänelle Uscolliset uscowaiset . </v>
-        <v>Edesäm on Esimercki Tänäpänä täysi meillä , Cowan cuoleman menosta Waldian waelluxesta , Joca otti omaxehen Yhden HERran Hengellisen , Saatti Muorille murehen , Jätti lapset laattiallen Aiwan oudoix' Orpanoixi , Seuracunnan Semmoisexi . </v>
-        <v>Mutta HERRA holhocohon Turwattomat tuetcohon , Muistacohon murhelliset Ilon cansa itkewäiset </v>
-        <v>Auttacohon armostansa Elämähän että myöden Hänen pelgosans Pyhäsä , Toiwosa totisimmasa , Että saada satamansa Wijmein Taiwahan talosa , Cansa Isänsä ilosa Engelitten elannosa ! </v>
+        <v>TEndimus huc omnes , </v>
+<v>metam properamus ad unam , </v>
+<v>Omnia sub leges mors </v>
+<v>vocat atta suas . </v>
+        <v>Cow' on laki cuolemalla </v>
+<v>Angara armottomalla , </v>
+<v>Caicki maahan caatelepi </v>
+<v>Martahaxi maaduttapi , </v>
+        <v>Mennä pitäpi minungin , </v>
+<v>Sinne täytypi Sinungin , </v>
+<v>Sinne welca wijmeisengin </v>
+<v>Cuolewaisten Cumpanitten . </v>
+        <v>Mikä waipu wanhembana </v>
+<v>Mikä nucku nuorembana , </v>
+<v>Sillä ihmisten elando </v>
+<v>Ombi orjuden olendo , </v>
+<v>Nijncuin coski cuohuwainen </v>
+<v>Joutusasti juoxewainen , </v>
+<v>Nijncuin uni umbinainen </v>
+<v>Waiwan alla waiwaloisen , </v>
+<v>Nijncuin cuckainen kedolla </v>
+<v>Wicattella wijllettäwä </v>
+        <v>Nijncuin juttu joutawitten </v>
+<v>Pian puuttuwa peräti , </v>
+<v>Luojan laitoxen perähän </v>
+<v>Totisesta duomiosta </v>
+        <v> Joca saarnaisi Sanalla </v>
+<v>Alla ilman Adamille , </v>
+<v>Paradisin Pappilasa </v>
+<v>Yrtitarhas ylpiäsä : </v>
+<v>Ettäs cuulit culdaistasi , </v>
+<v>Ewaasi Emändätäsi , </v>
+<v>Otit omenan häneldä </v>
+<v>Jonga kielsin Caickiwalda , </v>
+<v>Surma sinun säikyttäpi , </v>
+<v>Cuolemalla cuolettapi . </v>
+        <v>Waan on meille mieluihinen </v>
+<v>Sydämmellemme suloinen , </v>
+<v>Ettei heitä HERra meitä , </v>
+<v>Cuolemahan cummingahan , </v>
+<v>Mutta wihdoin wirwottapi </v>
+<v>Undunehet uudistapi , </v>
+        <v>Cosca tule duomiolle , </v>
+<v>Näiden Luotuin lopulla , </v>
+<v>Meidän sijrtäpi siamme , </v>
+<v>Tuonne Taiwahan Talohon , </v>
+<v>Cus' ei cuulu cuolemata </v>
+<v>Eikä waiwoist waliteta , </v>
+<v>Jos olem ollet Hänelle </v>
+<v>Uscolliset uscowaiset . </v>
+        <v>Edesäm on Esimercki </v>
+<v>Tänäpänä täysi meillä , </v>
+<v>Cowan cuoleman menosta </v>
+<v>Waldian waelluxesta , </v>
+<v>Joca otti omaxehen </v>
+<v>Yhden HERran Hengellisen , </v>
+<v>Saatti Muorille murehen ,</v>
+<v> Jätti lapset laattiallen </v>
+<v>Aiwan oudoix' Orpanoixi , </v>
+<v>Seuracunnan Semmoisexi . </v>
+        <v>Mutta HERRA holhocohon </v>
+<v>Turwattomat tuetcohon , </v>
+<v>Muistacohon murhelliset </v>
+<v>Ilon cansa itkewäiset </v>
+        <v>Auttacohon armostansa </v>
+<v>Elämähän että myöden </v>
+<v>Hänen pelgosans Pyhäsä , </v>
+<v>Toiwosa totisimmasa , </v>
+<v>Että saada satamansa </v>
+<v>Wijmein Taiwahan talosa , </v>
+<v>Cansa Isänsä ilosa </v>
+<v>Engelitten elannosa ! </v>
 </poem></TXT>
 </ITEM>
-<ITEM nro="kr00140008" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
+<ITEM nro="kr140008" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
 <META>
 <TEOS>Wähäinen Cocous Suomalaisista Runoista. </TEOS>
 <LOC>Kalajoki, Turku</LOC>
@@ -7447,17 +7763,64 @@
 <TXT>
 <poem>
         <v>2:nen . </v>
-        <v>NIjncuin waatet wanhenepi , Reikihin repeilepi , Picaiselda pidettäwä Waicka callis cannettawa Nijmbä warsin wanhenewat Parahatkin ihmis parat . </v>
-        <v>Waatet tosin wanhenewa Reikihin repeilewä Paickamalla paratahan Kerroin caxin curoitahan , Waan ei paicaten parane Eläm' ihmisen enäne . </v>
-        <v>Nijncuin Hewo hirnuwainen , Kilti , caunis , carjuwainen , Pakenepi Paimenelda , Samuapi saaman tieldä , Cuin on päästä poisa Päitzet Suitzet suusta kirwonnehet , Nijn on juoxu joutuwainen Cuolemahan culkewainen , Ilman alla ihmisillä Tällä tiellä tiettäwällä . </v>
-        <v>Hewo tosin hirnuwainen Hawicosta haetahan Tacaisin talutetahan Consti cuono-rengahalla Corennolla coiwuisella </v>
-        <v>Waan ei taita talutella Milläculla culjetella Joutuisasti juoxewia Ilman alla ihmisiä , Täldä tieldä tacaperin Matcalda caiken Mailman . </v>
-        <v>Sijt' on meillä merkit wissit Jocapäiwä juoxewista Cuollon courihin cowihin Määrähänsä määrättyhyn , Että waicka wanhemmaxi Haluisesti harmahaxi Saapi jocu juoxennella Kijstasansa kilwoitella </v>
-        <v> Nijn ei juoxe joutawasti Päästä päätänsä carulla Yxikän yli ikänsä Määrä-päiwän määrättynsä . </v>
-        <v>Nijn on täsä tänäpänä Pandu cuollon paarten päälle Yxi warsin Wanha Waari Cauwan Maalla matcustanut , Joca todell todistapi Muille caikill muistuttapi : Juoxe cauwan cuingas tahdot , Matcustele mandereita , Nijn et ohitze osaja Cowan cuollon coppelota  </v>
+        <v>NIjncuin waatet wanhenepi , </v>
+<v>Reikihin repeilepi , </v>
+<v>Picaiselda pidettäwä </v>
+<v>Waicka callis cannettawa </v>
+<v>Nijmbä warsin wanhenewat </v>
+<v>Parahatkin ihmis parat . </v>
+        <v>Waatet tosin wanhenewa </v>
+<v>Reikihin repeilewä </v>
+<v>Paickamalla paratahan </v>
+<v>Kerroin caxin curoitahan , </v>
+<v>Waan ei paicaten parane </v>
+<v>Eläm' ihmisen enäne . </v>
+        <v>Nijncuin Hewo hirnuwainen , </v>
+<v>Kilti , caunis , carjuwainen , </v>
+<v>Pakenepi Paimenelda , </v>
+<v>Samuapi saaman tieldä , </v>
+<v>Cuin on päästä poisa Päitzet </v>
+<v>Suitzet suusta kirwonnehet , </v>
+<v>Nijn on juoxu joutuwainen </v>
+<v>Cuolemahan culkewainen , </v>
+<v>Ilman alla ihmisillä </v>
+<v>Tällä tiellä tiettäwällä . </v>
+        <v>Hewo tosin hirnuwainen </v>
+<v>Hawicosta haetahan </v>
+<v>Tacaisin talutetahan </v>
+<v>Consti cuono-rengahalla </v>
+<v>Corennolla coiwuisella </v>
+        <v>Waan ei taita talutella </v>
+<v>Milläculla culjetella </v>
+<v>Joutuisasti juoxewia </v>
+<v>Ilman alla ihmisiä , </v>
+<v>Täldä tieldä tacaperin </v>
+<v>Matcalda caiken Mailman . </v>
+        <v>Sijt' on meillä merkit wissit </v>
+<v>Jocapäiwä juoxewista </v>
+<v>Cuollon courihin cowihin </v>
+<v>Määrähänsä määrättyhyn , </v>
+<v>Että waicka wanhemmaxi </v>
+<v>Haluisesti harmahaxi </v>
+<v>Saapi jocu juoxennella </v>
+<v>Kijstasansa kilwoitella </v>
+        <v> Nijn ei juoxe joutawasti </v>
+<v>Päästä päätänsä carulla </v>
+<v>Yxikän yli ikänsä </v>
+<v>Määrä-päiwän määrättynsä . </v>
+        <v>Nijn on täsä tänäpänä </v>
+<v>Pandu cuollon paarten päälle </v>
+<v>Yxi warsin Wanha Waari </v>
+<v>Cauwan Maalla matcustanut , </v>
+<v>Joca todell todistapi </v>
+<v>Muille caikill muistuttapi : </v>
+<v>Juoxe cauwan cuingas tahdot , </v>
+<v>Matcustele mandereita , </v>
+<v>Nijn et ohitze osaja </v>
+<v>Cowan cuollon coppelota  </v>
 </poem></TXT>
 </ITEM>
-<ITEM nro="kr00140009" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
+<ITEM nro="kr140009" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
 <META>
 <TEOS>Wähäinen Cocous Suomalaisista Runoista. </TEOS>
 <LOC>Kalajoki, Turku</LOC>
@@ -7479,17 +7842,69 @@
 </metaB>
 <TXT>
 <poem>
-        <v>Runot muisa Tiloisa . </v>
-        <v>Onnen Toiwotus , meidän Corkiammast Cunnioitettawalle Pispallem ja Pro-Cancellar . Herr Doctor JOHAN BROWALLIUXelle . </v>
-        <v>COsca tutkin HERran Töitä Caiken Säädyn catzannosa </v>
-        <v> Nijn mä lähden laulamahan Hywin mielin hyrryttelen , Anon häldä andamia , Laupioita Lahjuxia , Turun Pispalle Tutulle Hengellisell' Herrallemme , Joc' on wasta walittuna , Cuningalda Cuulutettu Caickiwallan catzannosta Asetuxest' armiasta , Walwowaxi wartiaxi Siunattuhun Zionihin . </v>
-        <v>Meill' on onni outo ollut Muutoxia monda tullut Turun Pispain Pihasa Caunihisa Cartanosa </v>
-        <v>Mutta muista HERRA wielä Pispa pitkällä ijällä , Caitzemahan Cansojasi Laituimella Lambaitasi , Rakendaman raadollista Sitä Suomen Zionita , Etteij caatuis calliolda Wanhalda warustetulda , Nijncuin peri peljättäpi Cauhiasti catzottapi Joucko Jumalattomitten Seura Secaseurasitten . </v>
-        <v>Anna HERra aina olla Sanas woiman woimallisen , Ettei heittäis Helwetistä Paha Hengi paulojansa ! </v>
-        <v>Ole kilpi kijwahalle Warjo Pispalle wagalle , Että woisi woimallasi Häwitellä häijyt caicki , Eroitella eriseurat , Julki Jumalattomudet , Sinun seurastas pyhästä , Siunatusta Zionista , Panis myöskin Paimenia Seuracundaas semmoisia , Jotc' eij olis ohrapion Leipä palan palweliat , Mutta muistaisit Sanalla Parahitten panetella Parannusta paatuneille Wahwistusta waipuneille , Ynnä yhdes etzisiwät Caiketickin caitzoisiwat HERran pelcoa pyhindä Corkeimman Cunniata , </v>
-        <v>Nincuin toiwotta todella Suulla sekä Sydämmellä Wanha Pappi waipuwainen , Calajoen Cappalainen . </v>
+        <K>Runot muisa Tiloisa . </K>
+        <K>Onnen Toiwotus , meidän Corkiammast Cunnioitettawalle Pispallem ja Pro-Cancellar . Herr Doctor JOHAN BROWALLIUXelle . </K>
+        <v>COsca tutkin HERran Töitä </v>
+<v>Caiken Säädyn catzannosa </v>
+        <v> Nijn mä lähden laulamahan </v>
+<v>Hywin mielin hyrryttelen , </v>
+<v>Anon häldä andamia , </v>
+<v>Laupioita Lahjuxia , </v>
+<v>Turun Pispalle Tutulle </v>
+<v>Hengellisell' Herrallemme , </v>
+<v>Joc' on wasta walittuna , </v>
+<v>Cuningalda Cuulutettu </v>
+<v>Caickiwallan catzannosta </v>
+<v>Asetuxest' armiasta , </v>
+<v>Walwowaxi wartiaxi </v>
+<v>Siunattuhun Zionihin . </v>
+        <v>Meill' on onni outo ollut </v>
+<v>Muutoxia monda tullut </v>
+<v>Turun Pispain Pihasa </v>
+<v>Caunihisa Cartanosa </v>
+        <v>Mutta muista HERRA wielä </v>
+<v>Pispa pitkällä ijällä , </v>
+<v>Caitzemahan Cansojasi </v>
+<v>Laituimella Lambaitasi , </v>
+<v>Rakendaman raadollista </v>
+<v>Sitä Suomen Zionita , </v>
+<v>Etteij caatuis calliolda </v>
+<v>Wanhalda warustetulda , </v>
+<v>Nijncuin peri peljättäpi </v>
+<v>Cauhiasti catzottapi </v>
+<v>Joucko Jumalattomitten </v>
+<v>Seura Secaseurasitten . </v>
+        <v>Anna HERra aina olla </v>
+<v>Sanas woiman woimallisen , </v>
+<v>Ettei heittäis Helwetistä </v>
+<v>Paha Hengi paulojansa ! </v>
+        <v>Ole kilpi kijwahalle </v>
+<v>Warjo Pispalle wagalle , </v>
+<v>Että woisi woimallasi </v>
+<v>Häwitellä häijyt caicki , </v>
+<v>Eroitella eriseurat , </v>
+<v>Julki Jumalattomudet , </v>
+<v>Sinun seurastas pyhästä , </v>
+<v>Siunatusta Zionista , </v>
+<v>Panis myöskin Paimenia </v>
+<v>Seuracundaas semmoisia , </v>
+<v>Jotc' eij olis ohrapion </v>
+<v>Leipä palan palweliat , </v>
+<v>Mutta muistaisit Sanalla </v>
+<v>Parahitten panetella </v>
+<v>Parannusta paatuneille </v>
+<v>Wahwistusta waipuneille , </v>
+<v>Ynnä yhdes etzisiwät </v>
+<v>Caiketickin caitzoisiwat </v>
+<v>HERran pelcoa pyhindä </v>
+<v>Corkeimman Cunniata , </v>
+        <v>Nincuin toiwotta todella </v>
+<v>Suulla sekä Sydämmellä </v>
+<v>Wanha Pappi waipuwainen , </v>
+<v>Calajoen Cappalainen . </v>
 </poem></TXT>
 </ITEM>
+
 <ITEM nro="kr00140010" p="5020" y="1755" k="Calamnius, Gabriel Joosepinpoika">
 <META>
 <TEOS>Wähäinen Cocous Suomalaisista Runoista. </TEOS>
